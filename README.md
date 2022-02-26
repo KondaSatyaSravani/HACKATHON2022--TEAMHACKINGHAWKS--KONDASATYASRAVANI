@@ -11,4 +11,6 @@ SATHA MANI VARDHAN,
 MOHAMMAD RAFFEQ,
 
 EOI LINK:
+https://www.cloudcounselage.com/iac/?utm_source=Hackinghawks&utm_medium=hackathon_2022&utm_campaign=CloudCounselage
+YOUTUBE LINK:
 https://youtu.be/NDUevbAEWzE
